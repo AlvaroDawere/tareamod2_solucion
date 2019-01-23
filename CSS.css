@@ -6,6 +6,7 @@
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-size: 175%;
 }
 p {
   
@@ -29,6 +30,7 @@ p {
   border: 1px solid black;
   padding: 10px;
   background-color: #ff6055;
+  font-size: 125%;
 
 }
 
@@ -40,7 +42,7 @@ p {
   border: 1px solid black;
   padding: 10px;
   background-color: #b6af55;
-
+  font-size: 125%;
 }
 
 .beef{
@@ -51,7 +53,7 @@ p {
   border: 1px solid black;
   padding: 10px;
   background-color: #ff9e55;
-
+  font-size: 125%;
 }
 /* Simple Responsive Framework. */
 .row {
